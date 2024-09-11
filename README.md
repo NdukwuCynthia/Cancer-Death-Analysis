@@ -1,5 +1,14 @@
-About Dataset 
-Description 
+PROBLEM STATEMENT
+In a world where the fear of cancer looms large among the adult population, understanding the factors that contribute to the diagnosis of cancer is paramount. This study aims to investigate the impact of various patient data points and the likelihood of a cancer diagnosis. By analyzing a dataset that includes information on age, gender, BMI, smoking habits, genetic risk, physical activity, alcohol intake, cancer history, and diagnosis, we hope to provide insights into how these factors affect the probability of developing cancer. The ultimate goal is to alleviate fears by identifying modifiable risk factors and informing preventive strategies.About Dataset 
+
+Goals:
+Identify Key Risk Factors:
+ Determine which factors (e.g., smoking, genetic risk, BMI) are most strongly associated with a cancer diagnosis. 
+Understand Demographic Patterns: Explore how age and gender influence cancer risk.
+Assess Lifestyle Impacts: Evaluate the impact of lifestyle choices such as physical activity and alcohol intake on cancer risk.
+Inform Preventive Strategies:Provide actionable insights that can help individuals reduce their risk of cancer through lifestyle changes or early screenings.
+
+DESCRIPTION 
 This dataset contains medical and lifestyle information for 1500 patients, designed to predict the 
 presence of cancer based on various features. The dataset is structured to provide a realistic challenge 
 for predictive modeling in the medical domain. 
